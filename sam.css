@@ -1,0 +1,57 @@
+body{
+
+    background-color: #393E46;
+    text-align: center;
+    position: relative;
+}
+.title{
+
+    font-family: 'Lobster', cursive;
+    color: #4ECCA3;
+    
+    font-size: 8rem;
+    
+    text-shadow: 5px 0 #202327;
+    
+
+
+
+}
+#head{
+
+   
+   
+    text-align: center;
+}
+p{
+
+    font-family: 'Indie Flower', cursive;
+    color: #4ECCA3;
+   
+    font-size: 2rem;
+   
+    
+    
+    
+
+}
+footer{
+
+    color: aliceblue;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    padding: 3%;
+}
+
+
+
+
+.row{
+    display: flex;
+    padding-left: 32%;
+
+
+}
+.pp2,.pp1{
+    margin: 10px;;
+}
